@@ -21,9 +21,9 @@ This seminar meets on Wednesdays 2:00-3 PM in Blocker 302.
 The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](https://sites.google.com/view/runjiehu/home), [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma), [Zhizhang Xie](https://people.tamu.edu/~xie/) and [Guoliang Yu](https://artsci.tamu.edu/mathematics/contact/profiles/guoliang-yu.html).
 
 
-| Date         | Speaker | Affiliation| Title | Other |
+| Date         | Speaker | Affiliation| Title | Abstract |
 |--------------|---------|------------|-------|-------|
-| August 27, 2025   |  Qiaochu Ma  | Texas A&M  | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
+| August 27, 2025   |  [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma)  | Texas A&M  | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
 | September 3, 2025   |      |   |      |   |
 | September 10, 2025 |      |   |      |       |
 | September 17, 2025|      |   |      |       |
