@@ -33,7 +33,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | October 15, 2025  |      |   |      |       |
 | October 22, 2025  |      |   |      |       |
 | October 29, 2025  |      |   |      |       |
-| November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of M\"unster  | TBD      |  TBD     |
+| November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of Muenster  | TBD      |  TBD     |
 | November 12, 2025 |      |   |       |       |
 | November 19, 2025 |      |   |       |       |
 | November 26, 2025 |      |   |       |       |
