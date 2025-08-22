@@ -24,8 +24,8 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | Date         | Speaker | Affiliation| Title | Abstract |
 |--------------|---------|------------|-------|-------|
 | August 27, 2025   |  [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma)  | Texas A&M  | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
-| September 3, 2025   |      |   |      |   |
-| September 10, 2025 |      |   |      |       |
+| September 3, 2025   | Ryo Toyota     | Texas A&M  | TBD     | TBD  |
+| September 10, 2025 | [Simone Cecchini](https://simonececchini.org/) | Texas A&M  | TBD     | TBD      |
 | September 17, 2025|      |   |      |       |
 | September 24, 2025| |  |   |      |
 | October 1, 2025   |      |   |      |       |
