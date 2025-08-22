@@ -23,22 +23,21 @@ The organizers are [Simone Cecchini](https://simonececchini.org/), [Zhizhang Xie
 
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
-| August 25, 2025   |  Sample Speaker  | Texas A&M  | Sample Title| <span class="abstract-link" onclick="showAbstract('test')">View Abstract</span>  |
-| August 29, 2025   |      |   |      |   |
-| September 5, 2025 |      |   |      |   No seminar (promotion talks)    |
-| September 12, 2025|      |   |      |   No seminar (promotion talks)    |
-| September 22, 2025| |  |   |      |
-| September 26, 2025|      |   |      |       |
-| October 3, 2025   |      |   |      |       |
-| October 10, 2025  |      |   |      |       |
-| October 17, 2025  |      |   |      |       |
-| October 24, 2025  |      |   |      |       |
-| October 31, 2025  |      |   |      |       |
-| November 7, 2025  |      |   |       |       |
-| November 14, 2025 |      |   |       |       |
-| November 21, 2025 |      |   |       |       |
-| November 28, 2025 |      |   |       |  No seminar (Thanksgiving)     |
-| December 5, 2025  |      |   |       |       |
+| August 27, 2025   |  Qiaochu Ma  | Texas A&M  | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
+| September 3, 2025   |      |   |      |   |
+| September 10, 2025 |      |   |      |       |
+| September 17, 2025|      |   |      |       |
+| September 24, 2025| |  |   |      |
+| October 1, 2025   |      |   |      |       |
+| October 8, 2025  |      |   |      |       |
+| October 15, 2025  |      |   |      |       |
+| October 22, 2025  |      |   |      |       |
+| October 29, 2025  |      |   |      |       |
+| November 5, 2025  |      |   |       |       |
+| November 12, 2025 |      |   |       |       |
+| November 19, 2025 |      |   |       |       |
+| November 26, 2025 |      |   |       |  No seminar (Thanksgiving)     |
+| December 3, 2025  |      |   |       |       |
 
 
 # Related Links
@@ -60,8 +59,8 @@ The organizers are [Simone Cecchini](https://simonececchini.org/), [Zhizhang Xie
 
 <!-- Abstract content -->
 
-<div id="test" style="display:none;">
-Test abstract, to use $\LaTeX$ just use dollar signs. $\binom{n}{k}$
+<div id="Qiaochu-Ma" style="display:none;">
+Scalar curvature encodes the volume information of small geodesic balls within a Riemannian manifold, making it, to some extent, the weakest curvature invariant. This raises a natural question: what topological constraints does scalar curvature impose on manifolds? In this talk, we shall show that for a manifold with a scalar curvature lower bound, the simplicial norm of certain characteristic classes can be controlled by its volume and isoperimetric constant. This is joint work with Guoliang Yu.
 </div>
 
 
