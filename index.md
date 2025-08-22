@@ -36,7 +36,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | November 5, 2025  |      |   |       |       |
 | November 12, 2025 |      |   |       |       |
 | November 19, 2025 |      |   |       |       |
-| November 26, 2025 |      |   |       |  No seminar (Thanksgiving)     |
+| November 26, 2025 |      |   |       |       |
 | December 3, 2025  |      |   |       |       |
 
 
