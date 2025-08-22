@@ -18,7 +18,7 @@ layout: default
 
 This seminar meets on Wednesdays 2:00-3 PM in Blocker 302.
 
-The organizers are [Simone Cecchini](https://simonececchini.org/), [Zhizhang Xie](https://people.tamu.edu/~xie/) and others.
+The organizers are [Simone Cecchini](https://simonececchini.org/), [Zhizhang Xie](https://people.tamu.edu/~xie/), and others.
 
 
 | Date         | Speaker | Affiliation| Title | Other |
