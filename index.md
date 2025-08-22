@@ -16,9 +16,9 @@ layout: default
 
 # Fall 2025
 
-This seminar meets on Mondays 3:00-3:50 PM and Fridays 4:00-4:50 PM in Blocker 302.
+This seminar meets on Wednesdays 2:00-3 PM in Blocker 302.
 
-The organizers are [Simone Cecchini](https://simonececchini.org/) and others.
+The organizers are [Simone Cecchini](https://simonececchini.org/), [Zhizhang Xie](https://people.tamu.edu/~xie/) and others.
 
 
 | Date         | Speaker | Affiliation| Title | Other |
