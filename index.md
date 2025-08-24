@@ -24,7 +24,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | Date         | Speaker | Affiliation| Title | Abstract |
 |--------------|---------|------------|-------|-------|
 | August 27, 2025   |  [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma)  | Texas A&M  | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
-| September 3, 2025   | Ryo Toyota     | Texas A&M  | TBD     | TBD  |
+| September 3, 2025   | [Ryo Toyota](https://sites.google.com/tamu.edu/ryotoyotashomopage/home)     | Texas A&M  | Twisted coarse Baum-Connes conjecture and relatively hyperbolic groups     | <span class="abstract-link" onclick="showAbstract('Ryo-Toyota')">View Abstract</span>  |
 | September 10, 2025 | [Simone Cecchini](https://simonececchini.org/) | Texas A&M  | TBD     | TBD      |
 | September 17, 2025|      |   |      |       |
 | September 24, 2025| |  |   |      |
@@ -61,6 +61,10 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 <div id="Qiaochu-Ma" style="display:none;">
 Scalar curvature encodes the volume information of small geodesic balls within a Riemannian manifold, making it, to some extent, the weakest curvature invariant. This raises a natural question: what topological constraints does scalar curvature impose on manifolds? In this talk, we shall show that for a manifold with a scalar curvature lower bound, the simplicial norm of certain characteristic classes can be controlled by its volume and isoperimetric constant. This is joint work with Guoliang Yu.
+</div>
+
+<div id="Ryo-Toyota" style="display:none;">
+We introduce twisted coarse Baum–Connes conjecture with stable coarse algebras, a geometric analogue of the Baum–Connes conjecture with coefficients. We show that this twisted version has stronger permanence properties than the classical coarse Baum–Connes conjecture, particularly with respect to unions and subspaces. We apply this framework to relatively hyperbolic groups. For a finitely generated group $G$ that is hyperbolic relative to  $\{H_1,\cdots,H_n\}$, it is known that $G$ satisfies coarse Baum-Connes conjecture if each $H_i$ does and $H_i$ admits finite-dimensional simplicial model of the universal space proper actions. Using our permanence results, we can show that $G$ satisfies twisted coarse Baum-Connes conjecture with stable coefficients, if and only if each $H_i$ does. This is a joint work with Jintao Deng.
 </div>
 
 
