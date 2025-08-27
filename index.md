@@ -23,13 +23,13 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 | Date         | Speaker | Affiliation| Title | Abstract |
 |--------------|---------|------------|-------|-------|
-| August 27, 2025   |  [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma)  | Texas A&M  | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
-| September 3, 2025   | [Ryo Toyota](https://sites.google.com/tamu.edu/ryotoyotashomopage/home)     | Texas A&M  | Twisted coarse Baum-Connes conjecture and relatively hyperbolic groups     | <span class="abstract-link" onclick="showAbstract('Ryo-Toyota')">View Abstract</span>  |
-| September 10, 2025 | [Simone Cecchini](https://simonececchini.org/) | Texas A&M  | TBD     | TBD      |
+| August 27, 2025   |  [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma)  | Texas A&M University | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
+| September 3, 2025   | [Ryo Toyota](https://sites.google.com/tamu.edu/ryotoyotashomopage/home)     | Texas A&M University | Twisted coarse Baum-Connes conjecture and relatively hyperbolic groups     | <span class="abstract-link" onclick="showAbstract('Ryo-Toyota')">View Abstract</span>  |
+| September 10, 2025 | [Simone Cecchini](https://simonececchini.org/) | Texas A&M University | TBD     | TBD      |
 | September 17, 2025|      |   |      |       |
-| September 24, 2025| |  |   |      |
+| September 24, 2025| [Hongyi Liu](https://www.math.princeton.edu/people/hongyi-liu) | Princeton University |  TBD | TBD     |
 | October 1, 2025   |      |   |      |       |
-| October 8, 2025  |      |   |      |       |
+| October 8, 2025  |  Tao Mei  | Texas A&M University  |  TBD    | TBD      |
 | October 15, 2025  |      |   |      |       |
 | October 22, 2025  |      |   |      |       |
 | October 29, 2025  |      |   |      |       |
