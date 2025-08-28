@@ -29,7 +29,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | September 17, 2025|      |   |      |       |
 | September 24, 2025| [Hongyi Liu](https://www.math.princeton.edu/people/hongyi-liu) | Princeton University |  TBD | TBD     |
 | October 1, 2025   |      |   |      |       |
-| October 8, 2025  |  Tao Mei  | TAMU |  TBD    | TBD      |
+| October 8, 2025  |  Tao Mei  | Texas A&M University |  TBD    | TBD      |
 | October 15, 2025  |      |   |      |       |
 | October 22, 2025  |      |   |      |       |
 | October 29, 2025  |      |   |      |       |
