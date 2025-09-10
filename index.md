@@ -29,7 +29,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | September 17, 2025|    [Jesus Sanchez Jr](https://sites.google.com/view/jstheory/home) | TAMU  |  Hypoelliptic Operators on Contact Manifolds    |   <span class="abstract-link" onclick="showAbstract('Jesus-Sanchez')">View Abstract</span>  |
 | September 24, 2025| [Hongyi Liu](https://www.math.princeton.edu/people/hongyi-liu) | Princeton University |  TBD | TBD     |
 | October 1, 2025   |      |   |      |       |
-| October 8, 2025  |  Tao Mei  | TAMU |  TBD    | TBD      |
+| October 8, 2025  |  Tao Mei  | Texas A&M |  TBD    | TBD      |
 | October 15, 2025  |      |   |      |       |
 | October 22, 2025  |      |   |      |       |
 | October 29, 2025  |      |   |      |       |
