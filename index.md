@@ -25,7 +25,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 |--------------|---------|------------|-------|-------|
 | August 27, 2025   |  [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma)  | Texas A&M University | Small Scale Index Theory, Scalar Curvature, and Gromov’s Simplicial Norm | <span class="abstract-link" onclick="showAbstract('Qiaochu-Ma')">View Abstract</span>  |
 | September 3, 2025   | [Ryo Toyota](https://sites.google.com/tamu.edu/ryotoyotashomopage/home)     | Texas A&M University | Twisted coarse Baum-Connes conjecture and relatively hyperbolic groups     | <span class="abstract-link" onclick="showAbstract('Ryo-Toyota')">View Abstract</span>  |
-| September 10, 2025 | [Simone Cecchini](https://simonececchini.org/) | Texas A&M University | Positive scalar curvature with point singularities     | <span class="abstract-link" onclick="showAbstract('Simone Cecchini')">View Abstract</span>D      |
+| September 10, 2025 | [Simone Cecchini](https://simonececchini.org/) | Texas A&M University | Positive scalar curvature with point singularities     | <span class="abstract-link" onclick="showAbstract('Simone Cecchini')">View Abstract</span>      |
 | September 17, 2025|    [Jesus Sanchez Jr](https://sites.google.com/view/jstheory/home) | Texas A&M University  |  Hypoelliptic Operators on Contact Manifolds    |   <span class="abstract-link" onclick="showAbstract('Jesus-Sanchez')">View Abstract</span>  |
 | September 24, 2025| [Hongyi Liu](https://www.math.princeton.edu/people/hongyi-liu) | Princeton University |  TBD | TBD     |
 | October 1, 2025   |      |   |      |       |
@@ -65,6 +65,10 @@ Scalar curvature encodes the volume information of small geodesic balls within a
 
 <div id="Ryo-Toyota" style="display:none;">
 We introduce twisted coarse Baum–Connes conjecture with stable coarse algebras, a geometric analogue of the Baum–Connes conjecture with coefficients. We show that this twisted version has stronger permanence properties than the classical coarse Baum–Connes conjecture, particularly with respect to unions and subspaces. We apply this framework to relatively hyperbolic groups. For a finitely generated group $G$ that is hyperbolic relative to  $\{H_1,\cdots,H_n\}$, it is known that $G$ satisfies coarse Baum-Connes conjecture if each $H_i$ does and $H_i$ admits finite-dimensional simplicial model of the universal space proper actions. Using our permanence results, we can show that $G$ satisfies twisted coarse Baum-Connes conjecture with stable coefficients, if and only if each $H_i$ does. This is a joint work with Jintao Deng.
+</div>
+
+<div id="Simone Cecchini" style="display:none;">
+I will discuss obstructions to metrics of positive scalar curvature with uniformly Euclidean point singularities. This provides counterexamples to a conjecture by Schoen. I will also discuss the existence of metrics with uniformly Euclidean point singularities which cannot be smoothed by a geometric flow while preserving nonnegativity of the scalar curvature. This is based on joint work with Georg Frenck and Rudi Zeidler.
 </div>
 
 <div id="Jesus-Sanchez" style="display:none;">
