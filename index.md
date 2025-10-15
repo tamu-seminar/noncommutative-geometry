@@ -31,8 +31,8 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | October 1, 2025   |      |   |      |       |
 | October 8, 2025  |  [Tao Mei](https://sites.google.com/tamu.edu/taomei/home) | Texas A&M University|  On Connes’ quantized derivative on Free groups    | <span class="abstract-link" onclick="showAbstract('Tao-Mei')">View Abstract</span>      |
 | October 15, 2025  |      |   |      |       |
-| October 22, 2025  |      |   |      |       |
-| October 29, 2025  |      |   |      |       |
+| October 22, 2025  |   [Runjie Hu](https://sites.google.com/view/runjiehu/home)   |  Texas A&M University |   Application of Finiteness Obstruction to Varieties   |   <span class="abstract-link" onclick="showAbstract('Runjie-Hu')">View Abstract</span>    |
+| October 29, 2025  |   [Jianchao Wu]   |  Fudan University |  TBD    |    TBD   |
 | November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of Muenster  | TBD      |  TBD     |
 | November 12, 2025 |      |   |       |       |
 | November 19, 2025 |      |   |       |       |
@@ -81,6 +81,10 @@ Poincar&#233;–Einstein metrics play an important role in geometric analysis an
 
 <div id="Tao-Mei" style="display:none;">
 The commutator operator  [x,H], where  x is a bounded function on the torus and H is the Hilbert transform, is a central object in classical analysis, lying at the intersection of Nehari’s theorem, Hankel operators, and BMO/VMO theory. In the terminology of A. Connes, [x,H] may be viewed as the quantized derivative of x. Connes further suggested a natural analogue of this operator on free groups and raised the question of how the properties of x are reflected in [x,H]. This was followed by G. Duchamp and C. Reutenauer, who proved that the finite-rank property of [x,H] characterizes the rationality of x. In this talk, I will review some history and share some of my recent thoughts on the boundedness and compactness of [x,H] in the setting of free groups and Voiculescu’s free semicircular von Neumann algebras.
+</div>
+
+<div id="Runjie Hu" style="display:none;">
+Some characteristic p>0 varieties fail to lift to characteristic zero. A topological obstruction is whether the l-adic etale homotopy type is homotopy equivalent to a finite CW complex. The integral version of this obstruction is the so-called Wall's finiteness obstruction. In this talk, I will explain this finiteness obstruction and the idea of generalizing this topological discussion to varieties.
 </div>
 
 <!-- Code that makes the pop-up windows -->
