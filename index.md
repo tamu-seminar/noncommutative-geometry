@@ -32,7 +32,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | October 8, 2025  |  [Tao Mei](https://sites.google.com/tamu.edu/taomei/home) | Texas A&M University|  On Connes’ quantized derivative on Free groups    | <span class="abstract-link" onclick="showAbstract('Tao-Mei')">View Abstract</span>      |
 | October 15, 2025  |      |   |      |       |
 | October 22, 2025  |   [Runjie Hu](https://sites.google.com/view/runjiehu/home)   |  Texas A&M University |   Application of Finiteness Obstruction to Varieties   |   <span class="abstract-link" onclick="showAbstract('Runjie-Hu')">View Abstract</span>    |
-| October 29, 2025  |   [Jianchao Wu](https://scholar.google.com/citations?user=WAeYdGwAAAAJ&hl=en)   |  Fudan University |  TBD    |    TBD   |
+| October 29, 2025  |   [Jianchao Wu](https://scholar.google.com/citations?user=WAeYdGwAAAAJ&hl=en)   |  Fudan University |  Quasi-representations and a K-theoretic invariant    |    <span class="abstract-link" onclick="showAbstract('Jianchao-Wu')">View Abstract</span>  |
 | November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of Muenster  | TBD      |  TBD     |
 | November 12, 2025 |      |   |       |       |
 | November 19, 2025 |      |   |       |       |
@@ -84,7 +84,11 @@ The commutator operator  [x,H], where  x is a bounded function on the torus and 
 </div>
 
 <div id="Runjie-Hu" style="display:none;">
-Some characteristic p>0 varieties fail to lift to characteristic zero. A topological obstruction is whether the l-adic etale homotopy type is homotopy equivalent to a finite CW complex. The integral version of this obstruction is the so-called Wall's finiteness obstruction. In this talk, I will explain this finiteness obstruction and the idea of generalizing this topological discussion to varieties.
+Some characteristic p>0 varieties fail to lift to characteristic zero. A topological obstruction is whether the l-adic etale homotopy type is homotopy equivalent to a finite CW complex. The integral version of this obstruction is the so-called Wall's finiteness obstruction. In this talk, I will explain this finiteness obstruction and the idea of generalizing this topological discussion to varieties. These are joint works with Ruida Di and Siqing Zhang.
+</div>
+
+<div id="Jianchao-Wu" style="display:none;">
+Generalizing the intriguing phenomenon of Voiculescu's almost commuting unitary matrices is the notion of a quasi-representation of a (discrete) group. As demonstrated by the work of Exel and Loring on Voiculescu's example, there may be topological obstructions to perturbing quasi-representations into genuine representations---this is where (topological or operator) K-theory enters the picture. Previous studies have mostly focused on fundamental groups of finite CW complexes. In this talk, which is based on joint work with Shmuel Weinberger and Guoliang Yu, we introduce the notion of a character as a more general and refined invariant for quasi-representations. 
 </div>
 
 <!-- Code that makes the pop-up windows -->
