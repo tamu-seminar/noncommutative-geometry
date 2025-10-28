@@ -33,7 +33,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | October 15, 2025  |      |   |      |       |
 | October 22, 2025  |   [Runjie Hu](https://sites.google.com/view/runjiehu/home)   |  Texas A&M University |   Application of Finiteness Obstruction to Varieties   |   <span class="abstract-link" onclick="showAbstract('Runjie-Hu')">View Abstract</span>    |
 | October 29, 2025  |   [Jianchao Wu](https://scholar.google.com/citations?user=WAeYdGwAAAAJ&hl=en)   |  Fudan University |  Quasi-representations and a K-theoretic invariant    |    <span class="abstract-link" onclick="showAbstract('Jianchao-Wu')">View Abstract</span>  |
-| November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of Muenster  | TBD      |  TBD     |
+| November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of Muenster  | Higher Index Theory and Scalar Curvature Rigidity      |  T<span class="abstract-link" onclick="showAbstract('Thomas-Tony')">View Abstract</span>     |
 | November 12, 2025 |      |   |       |       |
 | November 19, 2025 |      |   |       |       |
 | November 26, 2025 |      |   |       |       |
@@ -58,6 +58,10 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 
 <!-- Abstract content -->
+
+<div id="Thomas-Tony" style="display:none;">
+In this talk, I will present a recent generalization of Goette and Semmelmann’s rigidity theorem, where the original topological condition on the Â-degree is replaced by a less restrictive condition involving the so-called higher mapping degree. A key challenge in the proof is that a non-vanishing higher index does not necessarily give rise to a non-trivial kernel of the corresponding Dirac operator. I will present a new method that extracts geometrically useful information even in this more general setting. Moreover, I will explain a cut-and-paste principle for the higher index, which leads to a new index theorem relating the higher index of a certain Dirac operator to the higher mapping degree and the Euler characteristic.
+</div>
 
 <div id="Qiaochu-Ma" style="display:none;">
 Scalar curvature encodes the volume information of small geodesic balls within a Riemannian manifold, making it, to some extent, the weakest curvature invariant. This raises a natural question: what topological constraints does scalar curvature impose on manifolds? In this talk, we shall show that for a manifold with a scalar curvature lower bound, the simplicial norm of certain characteristic classes can be controlled by its volume and isoperimetric constant. This is joint work with Guoliang Yu.
