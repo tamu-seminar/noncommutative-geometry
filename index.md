@@ -35,7 +35,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | October 29, 2025  |   [Jianchao Wu](https://scholar.google.com/citations?user=WAeYdGwAAAAJ&hl=en)   |  Fudan University |  Quasi-representations and a K-theoretic invariant    |    <span class="abstract-link" onclick="showAbstract('Jianchao-Wu')">View Abstract</span>  |
 | November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of Muenster  | Higher Index Theory and Scalar Curvature Rigidity      |  <span class="abstract-link" onclick="showAbstract('Thomas-Tony')">View Abstract</span>     |
 | November 12, 2025 |      |   |       |       |
-| November 19, 2025 |      |   |       |       |
+| November 19, 2025 |  [Yuxuan Yang]   |  Texas A&M University |   TBA    |    TBA   |
 | November 26, 2025 |      |   |       |       |
 | December 3, 2025  |      |   |       |       |
 
