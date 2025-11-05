@@ -59,7 +59,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 <!-- Abstract content -->
 
-<div id="Guangzhhe-Xu" style="display:none;">
+<div id="Guangzhe-Xu" style="display:none;">
 We develop a theory of equivariant Chern characters in Bott-Chern cohomology for coherent sheaves on compact complex manifolds with finite group actions. Furthermore, we establish the corresponding equivariant Riemann-Roch-Grothendieck theorem. This is the equivariant extension of Bismut-Shen-Wei’s results.
 </div>
 
