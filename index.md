@@ -35,7 +35,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | October 29, 2025  |   [Jianchao Wu](https://scholar.google.com/citations?user=WAeYdGwAAAAJ&hl=en)   |  Fudan University |  Quasi-representations and a K-theoretic invariant    |    <span class="abstract-link" onclick="showAbstract('Jianchao-Wu')">View Abstract</span>  |
 | November 5, 2025  | [Thomas Tony](https://ttony.eu)     | University of Muenster  | Higher Index Theory and Scalar Curvature Rigidity      |  <span class="abstract-link" onclick="showAbstract('Thomas-Tony')">View Abstract</span>     |
 | November 12, 2025 |   [Guangzhe Xu](https://webusers.imj-prg.fr/~guangzhe.xu/)   |  Institut de Mathématiques de Jussieu |    Equivariant Chern character for coherent sheaves and Riemann-Roch-Grothendieck   |   <span class="abstract-link" onclick="showAbstract('Guangzhe-Xu')">View Abstract</span>     |
-| November 19, 2025 |  [Yuxuan Yang](https://sites.google.com/view/yang-yuxuan/about-me?authuser=0)   |  Texas A&M University |   TBA    |    TBA   |
+| November 19, 2025 |  [Yuxuan Yang](https://sites.google.com/view/yang-yuxuan/about-me?authuser=0)   |  Texas A&M University |   On the Volume Conjecture for hyperbolic Dehn-filled 3-manifolds along the twist knots    |    <span class="abstract-link" onclick="showAbstract('Yuxuan-Yang')">View Abstract</span>  |
 | November 26, 2025 |      |   |       |       |
 | December 3, 2025  |      |   |       |       |
 
@@ -58,6 +58,10 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 
 <!-- Abstract content -->
+
+<div id="Yuxuan-Yang" style="display:none;">
+For a twist knot K_p', let M be the closed 3-manifold obtained by doing (p, q) Dehn-filling along K_p'. In this article, we prove that Chen-Yang's volume conjecture holds for sufficiently large |p| + |q| and |p'| for M. In the proof, we construct a new ideal triangulation of the Whitehead link complement which is different from Thurston's triangulation. Our triangulation has led to some new discoveries regarding symmetry, including insights into "sister manifolds" as introduced by Hodgson, Meyerhoff, and Weeks. This work is a collaboration with Huabin Ge, Chuwen Wang, and Yunpeng Meng.
+</div>
 
 <div id="Guangzhe-Xu" style="display:none;">
 We develop a theory of equivariant Chern characters in Bott-Chern cohomology for coherent sheaves on compact complex manifolds with finite group actions. Furthermore, we establish the corresponding equivariant Riemann-Roch-Grothendieck theorem. This is the equivariant extension of Bismut-Shen-Wei’s results.
