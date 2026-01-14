@@ -23,7 +23,8 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 | Date         | Speaker | Affiliation| Title | Abstract |
 |--------------|---------|------------|-------|-------|
-| January 14, 2026   |  [Jintao Deng](https://sites.google.com/view/jintaodengspersonalpage/home)  | Shanghai University of Economics and Finance | The Coarse Baum–Connes Conjecture and Group Extensions | <span class="abstract-link" onclick="showAbstract('Jintao-Deng')">View Abstract</span>  |
+| January 14, 2026   |  [Jintao Deng](https://sites.google.com/view/jintaodengspersonalpage/home)  | - | The Coarse Baum–Connes Conjecture and Group Extensions | <span class="abstract-link" onclick="showAbstract('Jintao-Deng')">View Abstract</span>  |
+| January 14, 2026   |  [Liyuan Chen](https://scholar.google.com/citations?user=s1p6dPsAAAAJ&hl=en) | Harvard University | TBA | TBA  |
 | January 21, 2026   |  |  |   |  |
 | January 28, 2026 |  |  |   |    |
 | January 30, 2026 | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) |  TBD | TBD  |  TBD  |
