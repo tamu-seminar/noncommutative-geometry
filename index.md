@@ -24,7 +24,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | Date         | Speaker | Affiliation| Title | Abstract |
 |--------------|---------|------------|-------|-------|
 | January 14, 2026   |  [Jintao Deng](https://sites.google.com/view/jintaodengspersonalpage/home)  | - | The Coarse Baum–Connes Conjecture and Group Extensions | <span class="abstract-link" onclick="showAbstract('Jintao-Deng')">View Abstract</span>  |
-| January 14, 2026   |  [Liyuan Chen](https://scholar.google.com/citations?user=s1p6dPsAAAAJ&hl=en) | Harvard University | TBA | TBA  |
+| January 14, 2026   |  [Liyuan Chen](https://scholar.google.com/citations?user=s1p6dPsAAAAJ&hl=en) | Harvard University | Toward useful quantum computation: from near term to fault tolerance | <span class="abstract-link" onclick="showAbstract('Liyuan-Chen')">View Abstract</span>  |
 | January 21, 2026   |  |  |   |  |
 | January 28, 2026 |  |  |   |    |
 | January 30, 2026 | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) |  TBD | TBD  |  TBD  |
@@ -62,6 +62,10 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 <div id="Jintao-Deng" style="display:none;">
 The coarse Baum–Connes conjecture is a central problem in noncommutative geometry, capturing deep connections between operator algebras and the large-scale geometry of metric spaces. While the conjecture is inherently coarse-geometric in nature, understanding its behavior under group extensions presents significant challenges, as extensions often obscure large-scale geometric properties. In this talk, I will discuss recent progress on the coarse Baum–Connes conjecture for groups arising from extensions, highlighting the techniques used to analyze their coarse geometry.
+</div>
+
+<div id="Liyuan-Chen" style="display:none;">
+Two central goals in quantum science are (i) near-term simulation of many-body physics and (ii) scalable, fault-tolerant quantum computation in the long term. I will present two recent advances toward both aims. For (i), we present theoretical and experimental studies of globally controlled analog simulators, positioning them as principled platforms for quantum simulation. For (ii), we develop a non-Abelian topological framework in two dimensions that provides a route to fault-tolerant universality and remains compatible with current devices. Together, these results outline a practical trajectory from near-term simulation to scalable quantum computation.
 </div>
 
 
