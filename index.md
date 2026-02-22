@@ -31,7 +31,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | February 04, 2026|   |  |    |    |
 | February 11, 2026|  |  |  |    |
 | February 18, 2026   |      |   |      |       |
-| February 25, 2026 |      |   |      |       |
+| February 25, 2026 |   [Jie Xu]   |  Texas A&M University |   A Series of Rosenberg-Stolz Conjectures   |    <span class="abstract-link" onclick="showAbstract('Jie-Xu')">View Abstract</span>   |
 | March 04, 2026  |    |  |     |    |
 | March 11, 2026  |     |  |    |    |
 | March 18, 2026  |    |  |    |      |
@@ -66,6 +66,11 @@ The coarse Baum–Connes conjecture is a central problem in noncommutative geome
 
 <div id="Liyuan-Chen" style="display:none;">
 Two central goals in quantum science are (i) near-term simulation of many-body physics and (ii) scalable, fault-tolerant quantum computation in the long term. I will present two recent advances toward both aims. For (i), we present theoretical and experimental studies of globally controlled analog simulators, positioning them as principled platforms for quantum simulation. For (ii), we develop a non-Abelian topological framework in two dimensions that provides a route to fault-tolerant universality and remains compatible with current devices. Together, these results outline a practical trajectory from near-term simulation to scalable quantum computation.
+</div>
+
+<div id="Jie-Xu" style="display:none;">
+In 1994 and 2006 survey articles, Rosenberg and Stolz stated a series of conjectures by "persisting" non-positive scalar curvature metrics from a closed manifold  to the product space between  and a real line, the 2-plane, or a circle, respectively. There are two classical methods to study this type of problem: one is the method of index-theoretic obstructions, and the other is through geometric measure theory initiated by minimal hypersurfaces, then developed by e.g. Gromov's -bubble method.
+In this talk, we introduce a different, conformal geometry and PDE approach to partially answer a series of Rosenberg-Stolz conjectures, and Gromov-Lawson type scalar and mean curvature comparison results for all dimensions from "transposing the positivity" point of view. We also show its application in complex geometry. Some of my work involves collaboration with S. Rosenberg.
 </div>
 
 
