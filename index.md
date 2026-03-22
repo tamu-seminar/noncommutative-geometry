@@ -35,9 +35,9 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | March 04, 2026  |    |  |     |    |
 | March 11, 2026  |     |  |    |    |
 | March 18, 2026  |    |  |    |      |
-| March 25, 2026|   |  |       |      |
+| March 25, 2026|  [Rufus Willett](https://math.hawaii.edu/~rufus/) | University of Hawai'i at Mānoa |    A secondary pairing for K-theory and K-homology   |   <span class="abstract-link" onclick="showAbstract('Rufus-Willett')">View Abstract</span>  |
 | April 01, 2026|     |   |      |      |
-| April 08, 2026 |      |   |       |       |
+| April 08, 2026 |   Jesus Sanchez Jr    |  Texas A&M University |   TBD   |   TBD   |
 | April 15, 2026  |      |   |       |       |
 | April 22, 2026  |      |   |       |       |
 | April 29, 2026  |      |   |       |       |
@@ -71,6 +71,10 @@ Two central goals in quantum science are (i) near-term simulation of many-body p
 <div id="Jie-Xu" style="display:none;">
 In 1994 and 2006 survey articles, Rosenberg and Stolz stated a series of conjectures by "persisting" non-positive scalar curvature metrics from a closed manifold  to the product space between  and a real line, the 2-plane, or a circle, respectively. There are two classical methods to study this type of problem: one is the method of index-theoretic obstructions, and the other is through geometric measure theory initiated by minimal hypersurfaces, then developed by e.g. Gromov's -bubble method.
 In this talk, we introduce a different, conformal geometry and PDE approach to partially answer a series of Rosenberg-Stolz conjectures, and Gromov-Lawson type scalar and mean curvature comparison results for all dimensions from "transposing the positivity" point of view. We also show its application in complex geometry. Some of my work involves collaboration with S. Rosenberg.
+</div>
+
+<div id="Rufus-Willett" style="display:none;">
+The primary pairing between K-theory and K-homology of a C*-algebra is an important Z-valued invariant.  It can be computed using index theory, and several other techniques from noncommutative geometry.  However, it cannot see torsion information.  In this talk, I will introduce a pairing between the torsion subgroups of K-theory and K-homology that takes values in Q/Z, and in good cases (e.g. under the UCT, and if K-homology is finitely generated) captures all the information that the primary pairing misses.  I will then relate this to the relative eta invariants of Atiyah-Patodi-Singer, and also to the zeta map of Gong-Lin-Niu, and Carrión-Gabe-Schafhauser-Tikuisis-White.
 </div>
 
 
