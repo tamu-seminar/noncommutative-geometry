@@ -32,6 +32,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | March 24, 2026  | [Assaf Naor](https://web.math.princeton.edu/~naor/)   | Princeton University |  The Ribe program and metric smoothness  |  <span class="abstract-link" onclick="showAbstract('Assaf-Naor-II')">View Abstract</span>  |
 | March 25, 2026  | [Assaf Naor](https://web.math.princeton.edu/~naor/)   | Princeton University |  Distortion growth and the gap possibility  |  <span class="abstract-link" onclick="showAbstract('Assaf-Naor-III')">View Abstract</span>  |
 | March 25, 2026|  [Rufus Willett](https://math.hawaii.edu/~rufus/) | University of Hawai'i at Mānoa |    A secondary pairing for K-theory and K-homology   |   <span class="abstract-link" onclick="showAbstract('Rufus-Willett')">View Abstract</span>  |
+| March 27, 2026|  [Eric Chen](https://ecchen.web.illinois.edu) | University of Illinois Urbana-Champaign |    Ricci flow and integral curvature pinching   |   <span class="abstract-link" onclick="showAbstract('Eric-Chen')">View Abstract</span>  |
 | April 06, 2026|  [Dennis Sullivan](https://www.math.stonybrook.edu/~dennis/)  | Stony Brook University, City University of New York  |   Symmetry underlying “abstract 3D incompressible fluid motion” created by the discrete group of integer 3x3 matrices of unit determinant I   |   <span class="abstract-link" onclick="showAbstract('Dennis-Sullivan-I')">View Abstract</span>   |
 | April 07, 2026|  [Dennis Sullivan](https://www.math.stonybrook.edu/~dennis/)  | Stony Brook University, City University of New York  |   Symmetry underlying “abstract 3D incompressible fluid motion” created by the discrete group of integer 3x3 matrices of unit determinant II   |   <span class="abstract-link" onclick="showAbstract('Dennis-Sullivan-II')">View Abstract</span>   |
 | April 08, 2026| ßß [Dennis Sullivan](https://www.math.stonybrook.edu/~dennis/)  | Stony Brook University, City University of New York  |   Symmetry underlying “abstract 3D incompressible fluid motion” created by the discrete group of integer 3x3 matrices of unit determinant III   |   <span class="abstract-link" onclick="showAbstract('Dennis-Sullivan-III')">View Abstract</span>   |
@@ -108,6 +109,10 @@ Fix the standard parallel translation on (R^3 modulo any unit volume lattice). T
 
 <div id="Junrong-Yan" style="display:none;">
 This is joint work with Minghao Wang. In this talk, I will explain the convergence of Feynman graph integrals on closed real-analytic Kähler manifolds: Using Getzler’s rescaling technique, the graph integrands extend naturally to the Fulton–MacPherson compactification as forms with divisorial singularities, allowing a rigorous definition as Cauchy principal value integrals. As an application, this yields a mathematical construction of the higher-genus B-model invariants on Calabi–Yau threefolds in the sense of Bershadsky–Cecotti–Ooguri–Vafa (BCOV).
+</div>
+
+<div id="Eric-Chen" style="display:none;">
+Early applications of the Ricci flow by Hamilton and others characterized Riemannian manifolds with certain pointwise curvature pinching conditions as spherical space forms.  In some cases, curvature pinching in averaged, integral senses can extend such results on topological restrictions.  I will describe some works on critical, scale-invariant integral curvature pinching and smoothing obtained using the Ricci flow and consequences of Perelman's W-entropy, joint with Guofang Wei and Rugang Ye.
 </div>
 
 <!-- Code that makes the pop-up windows -->
