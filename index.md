@@ -36,10 +36,9 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | April 06, 2026|  [Dennis Sullivan](https://www.math.stonybrook.edu/~dennis/)  | Stony Brook University, City University of New York  |   Symmetry underlying “abstract 3D incompressible fluid motion” created by the discrete group of integer 3x3 matrices of unit determinant I   |   <span class="abstract-link" onclick="showAbstract('Dennis-Sullivan-I')">View Abstract</span>   |
 | April 07, 2026|  [Dennis Sullivan](https://www.math.stonybrook.edu/~dennis/)  | Stony Brook University, City University of New York  |   Symmetry underlying “abstract 3D incompressible fluid motion” created by the discrete group of integer 3x3 matrices of unit determinant II   |   <span class="abstract-link" onclick="showAbstract('Dennis-Sullivan-II')">View Abstract</span>   |
 | April 08, 2026| [Dennis Sullivan](https://www.math.stonybrook.edu/~dennis/)  | Stony Brook University, City University of New York  |   Symmetry underlying “abstract 3D incompressible fluid motion” created by the discrete group of integer 3x3 matrices of unit determinant III   |   <span class="abstract-link" onclick="showAbstract('Dennis-Sullivan-III')">View Abstract</span>   |
-| April 15, 2026  |   [Junrong Yan](https://j-yan783.github.io/j-yan_math.github.io/)   | Northwestern University   |   Graph integral on Kahler manifolds    |  <span class="abstract-link" onclick="showAbstract('Junrong-Yan')">View Abstract</span>   |
-| April 22, 2026  |   [Jesus Sanchez Jr](https://sites.google.com/view/jstheory)   |  Texas A&M University |    TBD   |   TBD    |
-| April 29, 2026  |      |   |       |       |
-| May 06, 2026  |      |   |       |       |
+| April 15, 2026  |   [Junrong Yan](https://j-yan783.github.io/j-yan_math.github.io/)   | Northweastern University   |   Graph integral on Kahler manifolds    |  <span class="abstract-link" onclick="showAbstract('Junrong-Yan')">View Abstract</span>   |
+| April 20, 2026  |   [Jesus Sanchez Jr](https://sites.google.com/view/jstheory)   |  Texas A&M University |    Heat Flow and Path Integrals   |  <span class="abstract-link" onclick="showAbstract('Jesus-Sanchez-Jr')">View Abstract</span>   |
+
 
 # Past Seminars
 
@@ -57,6 +56,10 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 
 <!-- Abstract content -->
+
+<div id="Jesus-Sanchez-Jr" style="display:none;">
+In this talk we will discuss a method for producing an explicit formula for the heat kernel of a Riemannian manifold using path integrals, an infinite dimensional integral which is typically viewed as an unrigorous tool that the physicists use within their computations. We will discuss how to make these integrals rigorous in the Riemannian manifold setting by using heat kernel asymptotics. If time permits, we will discuss the relation between path integrals and the Atiyah-Singer index theorem as well as recent joint work with Andres Franco Valiente (UC Berkeley) where we use these ideas to construct a new class of first order hypoelliptic differential operators on arbitrary subRiemannian manifolds.
+</div>
 
 <div id="Jintao-Deng" style="display:none;">
 The coarse Baum–Connes conjecture is a central problem in noncommutative geometry, capturing deep connections between operator algebras and the large-scale geometry of metric spaces. While the conjecture is inherently coarse-geometric in nature, understanding its behavior under group extensions presents significant challenges, as extensions often obscure large-scale geometric properties. In this talk, I will discuss recent progress on the coarse Baum–Connes conjecture for groups arising from extensions, highlighting the techniques used to analyze their coarse geometry.
