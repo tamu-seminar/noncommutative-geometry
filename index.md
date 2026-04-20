@@ -38,7 +38,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 | April 08, 2026| [Dennis Sullivan](https://www.math.stonybrook.edu/~dennis/)  | Stony Brook University, City University of New York  |   Symmetry underlying “abstract 3D incompressible fluid motion” created by the discrete group of integer 3x3 matrices of unit determinant III   |   <span class="abstract-link" onclick="showAbstract('Dennis-Sullivan-III')">View Abstract</span>   |
 | April 15, 2026  |   [Junrong Yan](https://j-yan783.github.io/j-yan_math.github.io/)   | Northweastern University   |   Graph integral on Kahler manifolds    |  <span class="abstract-link" onclick="showAbstract('Junrong-Yan')">View Abstract</span>   |
 | April 20, 2026  |   [Jesus Sanchez Jr](https://sites.google.com/view/jstheory)   |  Texas A&M University |    Heat Flow and Path Integrals   |  <span class="abstract-link" onclick="showAbstract('Jesus-Sanchez-Jr')">View Abstract</span>   |
-| April 29, 2026  |   [Runjie Hu](https://sites.google.com/view/runjiehu/home)   |  Texas A&M University |    Galois Symmetry on Manifold and Permutation Structures of Complex Varieties  |  TBA  |
+| April 29, 2026  |   [Runjie Hu](https://sites.google.com/view/runjiehu/home)   |  Texas A&M University |    Galois Symmetry on Manifold and Permutation Structures of Complex Varieties  |  <span class="abstract-link" onclick="showAbstract('Runjie-Hu')">View Abstract</span>   |
 
 
 # Past Seminars
