@@ -29,7 +29,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 # Past Seminars
 
 - [Fall 2025](2025_fall.md)
-- [Spring 2025](2026_spring.md)
+- [Spring 2026](2026_spring.md)
 
 
 # Related Links
