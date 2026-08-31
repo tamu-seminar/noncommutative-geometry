@@ -22,7 +22,7 @@ The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](
 
 ## Current Seminars
 
-[current seminar schedule](https://sites.google.com/view/ncgseminartamu/home)
+[Seminar Schedule](https://sites.google.com/view/ncgseminartamu/home)
 
 
 ## Past Seminars
