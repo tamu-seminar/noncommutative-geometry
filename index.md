@@ -20,12 +20,12 @@ This seminar usually meets on Wednesdays 2:00-3:00 PM in Blocker 302.
 
 The organizers are  [Simone Cecchini](https://simonececchini.org/), [Runije Hu](https://sites.google.com/view/runjiehu/home), [Qiaochu Ma](https://sites.google.com/view/qiaochu-ma), [Thomas Tony](https://ttony.eu), [Zhizhang Xie](https://people.tamu.edu/~xie/) and [Guoliang Yu](https://artsci.tamu.edu/mathematics/contact/profiles/guoliang-yu.html).
 
+# Current Seminars
 
 [current seminar schedule](https://sites.google.com/view/ncgseminartamu/home)
 
 
-
-# Past Seminars
+### Past Seminars
 
 - [Fall 2025](2025_fall.md)
 - [Spring 2026](2026_spring.md)
